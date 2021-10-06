@@ -1,0 +1,24 @@
+{
+  "name": "wal-blogg",
+  "version": "1.0.0",
+  "description": "This is a blogging platform.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnambao/Wal-Blogg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pnambao/Wal-Blogg/issues"
+  },
+  "homepage": "https://github.com/pnambao/Wal-Blogg#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1"
+  }
+}
